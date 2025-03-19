@@ -21,6 +21,7 @@ target/
 *.ipr
 
 ### Resourses ###
+src/main/resources
 /src/main/resources/*.properties
 
 ### NetBeans ###
